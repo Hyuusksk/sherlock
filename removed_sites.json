@@ -653,7 +653,7 @@
     "urlMain": "https://www.sparkpeople.com",
     "username_claimed": "adam",
     "username_unclaimed": "noonewouldeverusethis7"
-  }
+  },
   "Facebook": {
     "errorMsg": "We couldn't find that user",
     "errorType": "message",
